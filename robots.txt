@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clepitor.github.io/sitemap.html.gz
+Sitemap: https://clepitor.github.io/app/sitemap.html.gz
+Sitemap: https://clepitor.github.io/assets/sitemap.html.gz
+Sitemap: https://clepitor.github.io/css/sitemap.html.gz
+Sitemap: https://clepitor.github.io/includes/sitemap.html.gz
+Sitemap: https://clepitor.github.io/item/sitemap.html.gz
+Sitemap: https://clepitor.github.io/src/sitemap.html.gz
